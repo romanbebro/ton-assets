@@ -471,22 +471,6 @@
   "symbol": "AVACN"
  },
  {
-  "address": "0:216435ca0c3a85d9b16e5801a5cb91717e056d86338a7ef6f24dfcd3bcaf3284",
-  "description": "AVTOP - is the digital stocks of the project avtoporogi.ru - the largest manufacturer of car body parts in CIS. We produce repair thresholds and repair arches for more than 3,500+ car models",
-  "image": "https://pbs.twimg.com/profile_images/1890717193781866496/mgcp-DF4_400x400.jpg",
-  "name": "AVTOP",
-  "social": [
-   "https://t.me/avtoporogirus",
-   "https://vk.com/avtoporogiru",
-   "https://x.com/AVTOPToken"
-  ],
-  "symbol": "AVTOP",
-  "websites": [
-   "https://dexscreener.com/ton/EQASr5JSlwjoBvsc_7UgBxZPcTVFkp67pS3bsGnF7uFElVgU",
-   "https://t.me/blum/app?startapp=memepadjetton_AVTOP_FbKF2-ref_JmvGxJQbql"
-  ]
- },
- {
   "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
   "description": "We are a big community token AXM. We have Axiome Wallet for staking (20% rewards per month), AxiomePay (VISA, MasterCard, UnionPay), Testnet DEX NEXDEX will be in January.",
   "image": "https://storage.dyor.io/jettons/EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4/image.jpeg",
@@ -2455,6 +2439,22 @@
    "https://t.me/dovbynkachat"
   ],
   "symbol": "FLEX"
+ },
+ {
+  "address": "0:0fe703565f45f4a22c73bb1a25d3edfca6d481aa314c699aa7d77a21aaa31ebb",
+  "description": "$FLUFFY HOUSE\u2014 \u043c\u0435\u043c\u043a\u043e\u0438\u043d \u0434\u043b\u044f \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u0432 \u0438 \u043a\u0440\u0438\u043f\u0442\u043e\u0434\u0435\u0433\u0435\u043d\u043e\u0432! **\u0426\u0435\u043b\u044c:**\ud83e\udee1 \u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u0430\u043c\u043e\u0435 \u043c\u0435\u043c\u043d\u043e\u0435 \u043a\u043e\u043c\u044c\u044e\u043d\u0438\u0442\u0438 \u0432 \u043a\u0440\u0438\u043f\u0442\u0435. \u041f\u0440\u0438\u0432\u043b\u0435\u0447\u044c \u0434\u0435\u043d\u044c\u0433\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430. \ud83d\ude4a- \u041a\u0440\u0438\u043f\u0442\u043e\u0442\u043e\u043a\u0435\u043d \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0433\u043e \u0437\u043e\u043e\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 \u0430 \u0442\u0430\u043a \u0436\u0435 \u0431\u0440\u0435\u043d\u0434\u0430\ud83d\udc36",
+  "image": "https://cdn.blum.codes/a872e621-8f90-402a-94a6-741811225321/75513cae-f786-43f6-95f5-ed8bfa00aff7",
+  "name": "Fluffy house",
+  "social": [
+   "https://t.me/fluffy_house2023",
+   "https://t.me/FluffyHouseGameBot",
+   "https://t.me/+nbVlMftmu8I4ZTFi"
+  ],
+  "symbol": "FLH",
+  "websites": [
+   "https://dexscreener.com/ton/eqaacjzfpotox73ifwfnrqnidwfikf_ramwcg5vwmdmva9i_",
+   "https://t.me/blum/app?startapp=memepadjetton_FLH_5GafX-ref_3lpprZ1Rjn"
+  ]
  },
  {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
